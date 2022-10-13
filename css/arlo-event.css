@@ -689,7 +689,7 @@ body {
 .arlo .arlo-event-list.arlo-events-2 .arlo-listitem-footer,
 .arlo .arlo-event-list.arlo-events-3 .arlo-listitem-footer,
 .arlo .arlo-event-list.arlo-events-4 .arlo-listitem-footer {
-    position: absolute;
+/*     position: absolute; */
     bottom: 20px;
     left: 20px;
 }
